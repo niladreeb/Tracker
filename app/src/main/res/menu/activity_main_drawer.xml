@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_track"
+            android:icon="@drawable/ic_track_me"
+            android:title="TrackMe" />
+        <item
+            android:id="@+id/nav_journey"
+            android:icon="@drawable/ic_journey"
+            android:title="Journeys" />
+    </group>
+
+</menu>

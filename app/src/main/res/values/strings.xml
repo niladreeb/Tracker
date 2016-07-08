@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Tracker</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_fragment_track_me">TrackMe</string>
+    <string name="title_fragment_journey">Journeys</string>
+    <string name="title_fragment_journey_detail">Route</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="app_jingle">track your journeys</string>
+
+    <string name="google_maps_key">AIzaSyCQd1rMntitj2br0hLDGDKEk0-jsDBYt-Y</string>
+
+    <string name="text_speed">Speed</string>
+    <string name="text_time">Time</string>
+    <string name="btn_get_location">Get My Location</string>
+    <string name="btn_start_location_updates">Start Location Updates</string>
+    <string name="btn_stop_location_updates">Stop Location Updates</string>
+</resources>
